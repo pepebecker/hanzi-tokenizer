@@ -13,7 +13,6 @@ module.exports = async (text, opts = {}) => {
 			try {
 				const entry = await mdbg.getByHanzi(word)
 				index += count - 1
-				entry.word = word
 				if (list.length === 0 || typeof list[list.length - 1] === 'string' || !opts.spaces) {
 					list.push(entry)
 				} else {
