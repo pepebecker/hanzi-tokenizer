@@ -2,7 +2,7 @@
 
 const mdbg = require('mdbg')
 
-module.exports = async (text, opts = {}) => {
+const tokenizer = async (text, opts = {}) => {
 	const list = []
 	let index = 0
 	while (index < text.length) {
@@ -36,3 +36,6 @@ module.exports = async (text, opts = {}) => {
 	}
 	return list
 }
+
+module.exports = tokenizer
+module.exports.init = mdbg.init
