@@ -4,28 +4,28 @@
   "description": "Convert Chinese text to list of Chinese words",
   "keywords": [
     "chinese",
-    "tokens",
     "hanzi",
     "mandarin",
-    "pinyin"
+    "pinyin",
+    "tokens"
   ],
   "homepage": "https://github.com/pepebecker/hanzi-tokenizer#readme",
   "bugs": {
     "url": "https://github.com/pepebecker/hanzi-tokenizer/issues"
   },
-  "license": "MIT",
-  "author": "Pepe Becker <mail@pepebecker.com> (http://pepebecker.com)",
-  "files": [],
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/pepebecker/hanzi-tokenizer.git"
   },
+  "license": "MIT",
+  "author": "Pepe Becker <mail@pepebecker.com> (http://pepebecker.com)",
+  "files": [],
+  "main": "index.js",
   "scripts": {
     "test": "mocha --timeout 20000"
   },
   "dependencies": {
-    "mdbg": "^1.26.0"
+    "mdbg": "^1.29.0"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
