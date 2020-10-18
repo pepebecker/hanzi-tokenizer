@@ -5,7 +5,7 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/pepebecker/hanzi-tokenizer.svg)](https://greenkeeper.io/)
 [![dependency status](https://img.shields.io/david/pepebecker/hanzi-tokenizer.svg)](https://david-dm.org/pepebecker/hanzi-tokenizer)
 [![dev dependency status](https://img.shields.io/david/dev/pepebecker/hanzi-tokenizer.svg)](https://david-dm.org/pepebecker/hanzi-tokenizer#info=devDependencies)
-[![MIT-licensed](https://img.shields.io/github/license/pepebecker/hanzi-tokenizer.svg)](https://opensource.org/licenses/MIT)
+[![ISC-licensed](https://img.shields.io/github/license/pepebecker/hanzi-tokenizer.svg)](https://choosealicense.com/licenses/isc/)
 [![chat on gitter](https://badges.gitter.im/pepebecker.svg)](https://gitter.im/pepebecker)
 
 ## Install
